@@ -76,8 +76,8 @@ Análisis de inferencia estadística aplicado a datos reales de la ciudad de **L
 
 | Recurso | Enlace |
 |---|:---:|
-| 📄 Archivo procesado | [Abrir](./evaluacion-sumativa/evaluacion_final.ipynb) |
-| 🗃️ Datos fuente (Loja) | [Abrir](./evaluacion-sumativa/data/datos_loja_source.csv) |
+| 📄 Archivo procesado | [Abrir](./evaluacion-sumativa/Examenpr.ipynb) |
+| 🗃️ Datos fuente (Loja) | [Abrir](./evaluacion-sumativa/data/datos_loja2.csv) |
 
 </div>
 
