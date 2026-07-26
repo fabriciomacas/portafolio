@@ -27,7 +27,7 @@
 <td align="center" width="33%">
 <a href="./guias-laboratorio">
 <img src="https://img.shields.io/badge/🧪-Guías%20de%20Laboratorio-2f80ed?style=for-the-badge" /><br>
-<sub>APE 06 → APE 11</sub>
+<sub>APE 06 → APE 15</sub>
 </a>
 </td>
 <td align="center" width="33%">
@@ -63,6 +63,11 @@
 | 04 | **APE 09** | [📁 Abrir carpeta](./guias-laboratorio/APE09) |
 | 05 | **APE 10** | [📁 Abrir carpeta](./guias-laboratorio/APE10) |
 | 06 | **APE 11** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+| 07 | **APE 12** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+| 08 | **APE 13** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+| 09 | **APE 14** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+| 10 | **APE 15** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+
 
 </div>
 
