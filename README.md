@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Lenin+Fabricio+Macas+Cabrera;Unidad+de+Inferencia+Estad%C3%ADstica;APE+06+%E2%86%92+APE+11+%2B+Evaluaci%C3%B3n+Final" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Lenin+Fabricio+Macas+Cabrera;Unidad+de+Inferencia+Estad%C3%ADstica;APE+06+%E2%86%92+APE+15+%2B+Evaluaci%C3%B3n+Final" alt="Typing SVG" />
 
 **Docente:** Ing. Cristian Narváez
 
