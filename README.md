@@ -63,10 +63,10 @@
 | 04 | **APE 09** | [📁 Abrir carpeta](./guias-laboratorio/APE09) |
 | 05 | **APE 10** | [📁 Abrir carpeta](./guias-laboratorio/APE10) |
 | 06 | **APE 11** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
-| 07 | **APE 12** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
-| 08 | **APE 13** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
-| 09 | **APE 14** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
-| 10 | **APE 15** | [📁 Abrir carpeta](./guias-laboratorio/APE11) |
+| 07 | **APE 12** | [📁 Abrir carpeta](./guias-laboratorio/APE12) |
+| 08 | **APE 13** | [📁 Abrir carpeta](./guias-laboratorio/APE13) |
+| 09 | **APE 14** | [📁 Abrir carpeta](./guias-laboratorio/APE14) |
+| 10 | **APE 15** | [📁 Abrir carpeta](./guias-laboratorio/APE15) |
 
 
 </div>
